@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Hur man skriver ett inlägg på hemsidan
+subtitle: Introduktion till författare
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [pressinfo][remisssvar]
 comments: true
 ---
 
