@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Planerat medlemsmöte om öppen källkod och anställningsavtal
+title: Planerat medlemsmöte 2021-05-04 om öppen källkod och anställningsavtal
 subtitle: Diskussion om anställningsavtal diskriminerar mot öppen källkod
 tags: [kalenderium]
 ---
 
-## Planerat medlemsmöte om öppen källkod och anställningsavtal
+## Planerat medlemsmöte 2021-05-04 om öppen källkod och anställningsavtal
 
+### Datum
+2021-05-04
+
+### Agenda
 Agenda:
 ```
 En sak
