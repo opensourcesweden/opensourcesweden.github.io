@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Nytt medlemsmöte planerat om anställningskontrakt
-subtitle: Diskussion: Anställningsavtal diskriminerar mot öppen källkod
+title: Planerat medlemsmöte om öppen källkod och anställningsavtal
+subtitle: Diskussion om anställningsavtal diskriminerar mot öppen källkod
 tags: [kalendarium]
 ---
 
-## Nytt medlemsmöte planerat om öppen källkod och anställningsavtal
+## Planerat medlemsmöte om öppen källkod och anställningsavtal
 
-Agenda före medlemsmötet
-* Detta
-* Och detta
+Agenda:
+```
+En sak
+en till sak
+En sista sak
+```
