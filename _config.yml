@@ -14,16 +14,16 @@ author: Open Source Sweden
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Om oss: 
+  Om föreningen: 
     - Om föreningen: "https://opensourcesweden.github.io/omforeningen"
     - Stadgar: "https://opensourcesweden.github.io/stadgar"
     - Styrelsen: "https://opensourcesweden.github.io/styrelsen"
     - Mission (In english): "https://opensourcesweden.github.io/mission"
-  Medlemsinfo:
-    - Medlemsföretagen: "https://opensourcesweden.github.io/medlemsforetagen"
+  Medlemsinformation:
+    - Medlemmarna: "https://opensourcesweden.github.io/medlemsforetagen"
     - Bli medlem: "https://opensourcesweden.github.io/bli_medlem"
     - Bli stödmedlem: "https://opensourcesweden.github.io/bli_stodmedlem"
-    - Medlemsföremåner: "https://opensourcesweden.github.io/medlemsforemaner"
+    - Föremåner: "https://opensourcesweden.github.io/medlemsforemaner"
   Vad vi gör:
     - Aktiviteter: "https://opensourcesweden.github.io/aktiviteter"
     - Artiklar: "https://opensourcesweden.github.io/artiklar"
