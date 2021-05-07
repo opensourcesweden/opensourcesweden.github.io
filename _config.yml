@@ -6,19 +6,30 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Open Source Sweden
 
 # Your name to show in the footer
-author: Some Person
+author: Open Source Sweden
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Om Föreningen: 
+    - Om föreningen: "https://opensourcesweden.github.io"
+    - Stadgar: "https://opensourcesweden.github.io"
+    - Styrelsen: "https://opensourcesweden.github.io"
+    - Mission (In english): "https://opensourcesweden.github.io"
+  Medlemsinformation: "https://opensourcesweden.github.io"
+    - Medlemsföretag: "https://opensourcesweden.github.io"
+    - Bli medlem: "https://opensourcesweden.github.io"
+    - Bli stödmedlem: "https://opensourcesweden.github.io"
+    - Medlemsföremånder: "https://opensourcesweden.github.io"
+  Aktiviteter: "https://opensourcesweden.github.io"
+  Artiklar: "https://opensourcesweden.github.io"
+  Pressinfo: "https://opensourcesweden.github.io"
+  Blogg: "https://opensourcesweden.github.io"
+  Kalenderium: "https://opensourcesweden.github.io"
+  Kontakta oss: "mailto://kontakt@opensourcesweden.org"
 
 # --- Logo --- #
 
@@ -39,15 +50,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "kontakt@opensourcesweden.com"
+  github: opensourcesweden
+  twitter: opensourcesweden
+  youtube: opensourcesweden
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: opensourcesweden
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -65,20 +74,20 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Open Source Sweden
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "opensourcesweden.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
