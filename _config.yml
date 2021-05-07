@@ -14,8 +14,8 @@ author: Open Source Sweden
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Om Föreningen: 
-    - Om föreningen: "https://opensourcesweden.github.io"
+  OmFöreningen: 
+    - Om föreningen: "https://opensourcesweden.github.io/OmFöreningen"
     - Stadgar: "https://opensourcesweden.github.io"
     - Styrelsen: "https://opensourcesweden.github.io"
     - Mission (In english): "https://opensourcesweden.github.io"
