@@ -1,15 +1,13 @@
 # Medlemsföretag
 Här finner du alla föreningens företag i alfabetisk ordning.
 
-## ![Logo](/assets/img/digitalistikon-logo.png)<br>
-Vi designar, utvecklar och förvaltar viktiga digitala produkter. För att skapa värde och effektivitet så krävs långa samarbeten. Vi gör allt för att både våra kunder och medarbetare ska jobba riktigt länge ihop. [Läs mer...](https://www.digitalist.se)
+## <a href="https://www.digitalist.se" rel="Digitalist">![Foo](http://www.google.com.au/images/nav_logo7.png)[Logo](/assets/img/digitalistikon-logo.png)</a>
 
-## ![Logo](/assets/img/Forefront_logo.png)
+## <a href="https://www.forefront.se" rel="Forefront Consulting">![Logo](/assets/img/Forefront_logo.png)</a>
 
-Forefront Consulting är ett verksamhets- och IT-konsultbolag med drygt 400 anställda. Med kontor på sex orter i Sverige, guidar vi företag och organisationer i det digitala landskapet och övriga transformationer. [Läs mer...](https://www.forefront.se)
+## <a href="https://imcode.com/" rel="imCode Partner AB">![Logo](/assets/img/imcode.gif)</a>
 
-imCode Partner AB
-imCode Partner AB grundades 1998 och har sedan dess arbetat med utveckling av CMS-relaterad programvara, i första hand mot offentlig sektor. Vi har... Läs mer »
+
 Kafit AB
 När vi går in i er organisation som IT-chef, systemadministratör eller supporttekniker ger vi råd och levererar produkter och tjänster med er säker... Läs mer »
 Monator Technologies AB
