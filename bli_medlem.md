@@ -12,10 +12,10 @@ Medlemsavgift: 500 kr / företag
 Serviceavgift beräknas på antal anställda som utgör Open Source-kapacitet.
 (Moms tillkommer)
  
-<	6 anställda	7 500:-	9	anställda	11 500:-
- 	6 anställda	8 500:-	10	anställda	12 500:-
- 	7 anställda	9 500:-	11-25	anställda	17 500:-
- 	8 anställda	10 500:-	>25	anställda	27 500:-
+<	6 anställda	 7 500:-	 9	anställda     11 500:-
+ 	6 anställda	 8 500:-	 10	anställda    12 500:-
+ 	7 anställda	 9 500:-	 11-25	anställda 17 500:-
+ 	8 anställda	 10 500:- >25	anställda   27 500:-
 ```
 
 ## Utträdesregler
