@@ -25,10 +25,10 @@ navbar-links:
     - Bli stödmedlem: "https://opensourcesweden.github.io/bli_stodmedlem"
     - Förmåner: "https://opensourcesweden.github.io/medlemsformaner"
   Vad vi gör:
-    - Aktiviteter: "https://opensourcesweden.github.io/aktiviteter"
-    - Artiklar: "https://opensourcesweden.github.io/artiklar"
+    - Aktiviteter: "https://opensourcesweden.github.io/tags/#aktiviteter"
+    - Artiklar: "https://opensourcesweden.github.io/tags/#artiklar"
     - Kalenderium: "https://opensourcesweden.github.io/kalenderium"
-  Pressinfo: "https://opensourcesweden.github.io/pressinfo"
+  Pressinfo: "https://opensourcesweden.github.io/tags/#pressinfo"
   Kontakta oss: "mailto://kontakt@opensourcesweden.org"
 
 # --- Logo --- #
