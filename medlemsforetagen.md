@@ -6,27 +6,34 @@ Vi är en digital partner med fokus på affärsnytta och kundupplevelse. Med inn
 
 
 ## [Forefront Consulting](https://www.forefront.se)
-![Logo](/assets/img/Forefront_logo.png)
+Forefront Consulting är ett verksamhets- och IT-konsultbolag med drygt 400 anställda. Med kontor på sex orter i Sverige, guidar vi företag och organisationer i det digitala landskapet och övriga transformationer.
 
-## <a href="https://imcode.com" rel="imCode Partner AB">![Logo](/assets/img/imcode.gif)</a>
+## [imCode Partner AB](https://imcode.com)
+Vi fokuserar på att underlätta och möjliggöra digital delaktighet, i första hand inom offentlig sektor. Att vara delaktig, att arbeta tillsammans, skapar ömsesidig förståelse, ger bättre resultat och ett verkligt inflytande över individens situation.
 
-## <a href="https://kafit.se" rel="Kafit AB">![Logo](/assets/img/kaft.png)</a>
+## [Kafit AB](https://kafit.se)
+Kafit är litet av en doldis i branschen där vi som egenskap av underleverantör genom åren har levererat kompetens, system och hårdvara till en mängd olika stora välkända företag inom tillverkningsindustrin och tjänstesektorn.
 
-## <a href="http://www.monator.com" rel="Monator Technologies AB">![Logo](/assets/img/monator.png)</a>
+## [Monator Technologies AB](http://www.monator.com)
+We are change makers and act as catalysts helping organisations reshape how they work, learn and collaborate to better serve and engage with their customers and employees.
 
-## 
+## [MSC Solutions](http://www.monator.com/)
+MSC Solutions tillhandahåller högkvalitativa IT tjänster och lösningar med tydlig kundnytta. Vi är specialister inom komplexa integrationsprojekt, Open Source, virtualisering, datasäkerhetshantering och tjänsteorienterad infrastruktur och molntjänster.
 
-MSC Solutions
-MSC Solutions tillhandahåller högkvalitativa IT tjänster och lösningar med tydlig kundnytta. Vi är specialister inom komplexa integrationsprojekt, ... Läs mer »
-PrimeKey Solutions AB
-PrimeKey Solutions AB erbjuder lösningar - baserade på öppen källkod - med fokus på två områden: PKI-infrastruktur och signeringstjänster. Vi utvec... Läs mer »
-Red Hat AB
-Red Hat är världsledande leverantör av öppna källkodslösningar med huvudkontor i Raleigh, NC, USA och fler än 65 kontor världen över. CIO:er har i ... Läs mer »
-RedBridge AB
-Att stödja våra kunders beslutsprocesser med hjälp av paketerade analys- och konsulttjänster är en viktig del i RedBridges totala erbjudande. Vi le... Läs mer »
-Redpill Linpro AB
-Redpill Linpro är Nordens ledande totalleverantör av produkter och tjänster baserade på Open Source, och bland våra 180 medarbetare finns några av ... Läs mer »
-Scania
-Scania har skräddarsydda lösningar för olika användningsområden som hjälper transportföretag att öka effektiviteten och prestandan och samtidigt mi... Läs mer »
-South Pole AB
-South Pole är leverantör av Linuxbaserade serverlösningar. South Poles affärsidé är att hjälpa kunder att dra nytta av kostnadsfördelarna med Linux... Läs mer »
+## [PrimeKey Solutions AB](https://www.primekey.com/)
+One of the world’s leading companies for PKI solutions, PrimeKey has developed successful technologies, such as EJBCA® Enterprise, SignServer Enterprise and PrimeKey® EJBCA Appliance.
+
+## [Red Hat AB](https://www.redhat.com)
+Vi är världens ledande leverantör av öppenkällkodsbaserade företagslösningar. Med världens öppenkällkodsekosystem så levererar vi högpresterande Linux, cloud, container och Kuberneteslösningar.
+
+## [RedBridge AB](https://www.redbridge.se)
+RedBridge vision är att förändra IT marknaden. Vår utgångspunkt är att öppna standarder och Open Source ger våra kunder större valfrihet idag och i framtiden.
+
+## [Redpill Linpro AB](https://www.redpill-linpro.com)
+We help our customers to build the IT foundation for their digital transformation in the areas API & Integration, DevOps, and Cloud. As the leading Open Source service provider in the Nordics, Redpill Linpro always has a focus on openness.
+
+## [Scania](https://www.scania.com/)
+Scania is a world leading provider of transport solutions with 50,000 employees in about 100 countries. Together with our partners and customers we are driving the shift towards a sustainable transport system.
+
+## [South Pole AB](https://southpole.se/)
+Based in Stockholm, South Pole has over fifteen years’ experience of delivering high performance and enterprise computing solutions to businesses across the Nordics.
