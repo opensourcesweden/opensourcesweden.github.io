@@ -5,7 +5,8 @@ Här finner du alla föreningens företag i alfabetisk ordning.
 Vi är en digital partner med fokus på affärsnytta och kundupplevelse. Med innovation som drivkraft och spetskompetens inom insikter, teknik och design framtidssäkrar vi er verksamhet. Vi utvecklar och förvaltar appar, webbplatser och digitala tjänster.
 
 
-## <a href="https://www.forefront.se" rel="Forefront Consulting">![Logo](/assets/img/Forefront_logo.png)</a>
+## [Forefront Consulting](https://www.forefront.se)
+![Logo](/assets/img/Forefront_logo.png)
 
 ## <a href="https://imcode.com" rel="imCode Partner AB">![Logo](/assets/img/imcode.gif)</a>
 
