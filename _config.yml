@@ -14,22 +14,22 @@ author: Open Source Sweden
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  OmFöreningen: 
-    - Om föreningen: "https://opensourcesweden.github.io/OmFöreningen"
-    - Stadgar: "https://opensourcesweden.github.io"
-    - Styrelsen: "https://opensourcesweden.github.io"
-    - Mission (In english): "https://opensourcesweden.github.io"
-  Medlemsinformation: "https://opensourcesweden.github.io"
-    - Medlemsföretag: "https://opensourcesweden.github.io"
-    - Bli medlem: "https://opensourcesweden.github.io"
-    - Bli stödmedlem: "https://opensourcesweden.github.io"
-    - Medlemsföremånder: "https://opensourcesweden.github.io"
-  Aktiviteter: "https://opensourcesweden.github.io"
-  Artiklar: "https://opensourcesweden.github.io"
-  Pressinfo: "https://opensourcesweden.github.io"
-  Blogg: "https://opensourcesweden.github.io"
-  Kalenderium: "https://opensourcesweden.github.io"
-  Kontakta oss: "mailto://kontakt@opensourcesweden.org"
+  omforeningen: 
+    - Om föreningen: "https://opensourcesweden.github.io/omforeningen"
+    - Stadgar: "https://opensourcesweden.github.io/stadgar"
+    - Styrelsen: "https://opensourcesweden.github.io/styrelsen"
+    - Mission (In english): "https://opensourcesweden.github.io/mission"
+  Medlemsinformation:
+    - Medlemsföretag: "https://opensourcesweden.github.io/medlemsforetag"
+    - Bli medlem: "https://opensourcesweden.github.io/bli_medlem"
+    - Bli stödmedlem: "https://opensourcesweden.github.io/bli_stodmedlem"
+    - Medlemsföremåner: "https://opensourcesweden.github.io/medlemsforemaner"
+  Aktiviteter: "https://opensourcesweden.github.io/aktiviteter"
+  Artiklar: "https://opensourcesweden.github.io/artiklar"
+  Pressinfo: "https://opensourcesweden.github.io/pressinfo"
+  Blogg: "https://opensourcesweden.github.io/blogg"
+  Kalenderium: "https://opensourcesweden.github.io/kalenderium"
+  Kontakta oss: "mailto://kontakt@opensourcesweden.org/kontakta"
 
 # --- Logo --- #
 
@@ -199,7 +199,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Stockholm"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
