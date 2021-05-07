@@ -1,7 +1,7 @@
 # Medlemsföretag
 Här finner du alla föreningens företag i alfabetisk ordning.
 
-## <a href="https://www.digitalist.se" rel="Digitalist">![Foo](http://www.google.com.au/images/nav_logo7.png)[Logo](/assets/img/digitalistikon-logo.png)</a>
+## <a href="https://www.digitalist.se" rel="Digitalist">![Logo](/assets/img/digitalistikon-logo.png)</a>
 
 ## <a href="https://www.forefront.se" rel="Forefront Consulting">![Logo](/assets/img/Forefront_logo.png)</a>
 
