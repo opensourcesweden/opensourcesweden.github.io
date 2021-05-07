@@ -1,7 +1,9 @@
 # Medlemsföretag
 Här finner du alla föreningens företag i alfabetisk ordning.
 
-## <a href="https://www.digitalist.se" rel="Digitalist">![Logo](/assets/img/digitalistikon-logo.png)</a>
+## [Digitalist](https://www.digitalist.se)
+Vi är en digital partner med fokus på affärsnytta och kundupplevelse. Med innovation som drivkraft och spetskompetens inom insikter, teknik och design framtidssäkrar vi er verksamhet. Vi utvecklar och förvaltar appar, webbplatser och digitala tjänster.
+
 
 ## <a href="https://www.forefront.se" rel="Forefront Consulting">![Logo](/assets/img/Forefront_logo.png)</a>
 
