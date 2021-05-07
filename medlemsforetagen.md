@@ -5,12 +5,14 @@ Här finner du alla föreningens företag i alfabetisk ordning.
 
 ## <a href="https://www.forefront.se" rel="Forefront Consulting">![Logo](/assets/img/Forefront_logo.png)</a>
 
-## <a href="https://imcode.com/" rel="imCode Partner AB">![Logo](/assets/img/imcode.gif)</a>
+## <a href="https://imcode.com" rel="imCode Partner AB">![Logo](/assets/img/imcode.gif)</a>
 
+## <a href="https://kafit.se" rel="Kafit AB">![Logo](/assets/img/kaft.png)</a>
 
-Kafit AB
-När vi går in i er organisation som IT-chef, systemadministratör eller supporttekniker ger vi råd och levererar produkter och tjänster med er säker... Läs mer »
-Monator Technologies AB
+## <a href="http://www.monator.com" rel="Monator Technologies AB">![Logo](/assets/img/monator.png)</a>
+
+## 
+
 MSC Solutions
 MSC Solutions tillhandahåller högkvalitativa IT tjänster och lösningar med tydlig kundnytta. Vi är specialister inom komplexa integrationsprojekt, ... Läs mer »
 PrimeKey Solutions AB
