@@ -4,7 +4,7 @@ title: Hur man skriver ett inlägg på hemsidan
 subtitle: Introduktion till författare
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [pressinfo][remisssvar]
+tags: [artiklar]
 comments: true
 ---
 
