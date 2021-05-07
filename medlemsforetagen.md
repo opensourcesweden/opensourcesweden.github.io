@@ -6,6 +6,7 @@ Här finner du alla föreningens företag i alfabetisk ordning.
 Vi designar, utvecklar och förvaltar viktiga digitala produkter. För att skapa värde och effektivitet så krävs långa samarbeten. Vi gör allt för att både våra kunder och medarbetare ska jobba riktigt länge ihop. [Läs mer...](https://www.digitalist.se)
 
 ![Logo](/assets/img/Forefront_logo.png)
+
 Forefront Consulting är ett verksamhets- och IT-konsultbolag med drygt 400 anställda. Med kontor på sex orter i Sverige, guidar vi företag och organisationer i det digitala landskapet och övriga transformationer. [Läs mer...](https://www.forefront.se)
 
 imCode Partner AB
