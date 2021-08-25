@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft lobbar för att begränsa öppenhet
 subtitle: Micorosft har försökt övertyga den Brittiska regeringen
-tags: [template]
+tags: [artiklar]
 ---
 
 ### Microsoft lobbar för att begränsa öppenhet
