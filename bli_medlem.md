@@ -22,7 +22,9 @@ Serviceavgift beräknas på antal anställda som utgör Open Source-kapacitet.
 Fyll i följande information i din ansökan:
 
 ```
-Undertecknat bolag ansöker härmed om medlemskap i Föreningen Leverantörer av Öppen Programvara i Sverige, Open Source Sweden. Genom denna ansökan godkänner vi föreningens stadgar samt att vi ställer oss bakom formuleringarna i Open Source Swedens "Mission statement".
+Undertecknat bolag ansöker härmed om medlemskap i Föreningen Leverantörer av Öppen Programvara i Sverige,
+Open Source Sweden. Genom denna ansökan godkänner vi föreningens stadgar samt att vi ställer oss bakom
+formuleringarna i Open Source Swedens "Mission statement".
 
 Bolagets namn	
 Org. nr.	
@@ -33,7 +35,8 @@ E-post till kontaktperson
 Telefon	
 Hemsida	
 
-Antal heltidsanställda i Sverige som arbetar med Open Sourcerelaterad verksamhet. (”Open Source-kapacitet”, vilket är avgiftsgrundande)	
+Antal heltidsanställda i Sverige som arbetar med Open Sourcerelaterad verksamhet.
+(”Open Source-kapacitet”, vilket är avgiftsgrundande)	
 
 Bifoga en logotyp med fixbredd 150 pixlar. Logotypen måste vara jpg, gif eller png format.
 ```
