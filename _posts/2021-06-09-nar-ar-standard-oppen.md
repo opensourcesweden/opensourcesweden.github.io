@@ -2,7 +2,7 @@
 layout: post
 title: EU: När är en standard öppen?
 subtitle: Intressant artikel om öppna standarder
-tags: [artiklar]
+tags: [artiklar, nyheter]
 ---
 
 ## EU: 'A standard is open when implemented in open source'
