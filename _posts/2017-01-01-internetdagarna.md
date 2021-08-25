@@ -2,7 +2,7 @@
 layout: post
 title: Videosändningar från Internetdagarna 2017
 subtitle: Open Source Swedens spår under internetdagarna
-tags: [artiklar, blogg, offweb, 2017]
+tags: [artiklar, offweb]
 ---
 
 ### Öppna teknologier digitaliserar offentlig sektor (UTSÅLT)
