@@ -2,7 +2,7 @@
 layout: post
 title: Därför omfamnar svenska industriföretag öppen källkod
 subtitle: Artikel i Computer Sweden
-tags: [artiklar, blogg]
+tags: [artiklar]
 ---
 
 ### Computer Sweden: Därför omfamnar svenska industriföretag öppen källkod
