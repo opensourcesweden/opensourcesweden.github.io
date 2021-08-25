@@ -2,7 +2,7 @@
 layout: post
 title: Digitaliseringsministern - Så ska Sverige göra comeback som IT-nation
 subtitle: IT-ministern har blivit till en digitaliseringsminister
-tags: [artiklar, blogg]
+tags: [artiklar]
 ---
 
 ### Computer Sweden: Digitaliseringsministern - Så ska Sverige göra comeback som it-nation
