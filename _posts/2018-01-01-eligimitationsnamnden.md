@@ -2,7 +2,7 @@
 layout: post
 title: Open Source Sweden applåderar E-legitimationsnämnden
 subtitle: E-legitimationsnämnden är en bra statlig myndighet
-tags: [artiklar, blogg]
+tags: [artiklar, blogg, 2018]
 ---
 
 ### Open Source Sweden applåderar E-legitimationsnämnden
