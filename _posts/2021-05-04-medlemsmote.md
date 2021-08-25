@@ -2,7 +2,7 @@
 layout: post
 title: Medlemsmöte om öppen källkod och anställningsavtal
 subtitle: Anställningsavtal diskriminerar mot öppen källkod
-tags: [aktivitet, anställningsavtal]
+tags: [aktivitet, anställningsavtal, 2021]
 ---
 
 ## Medlemsmöte om öppen källkod och anställningsavtal
