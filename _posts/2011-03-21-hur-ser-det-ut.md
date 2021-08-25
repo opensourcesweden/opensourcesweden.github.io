@@ -2,7 +2,7 @@
 layout: post
 title: Hur ser det ut i offentlig Sverige?
 subtitle: Ny artikel
-tags: [template]
+tags: [artiklar]
 ---
 
 ### Hur ser det ut i offentlig Sverige?
