@@ -2,7 +2,7 @@
 layout: post
 title: En studie om forks (Lundell)
 subtitle: Stor studie om forks som kan vara av intresse för flera
-tags: [artikel]
+tags: [artiklar]
 ---
 
 ### En studie om forks (Lundell)

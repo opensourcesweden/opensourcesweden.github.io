@@ -2,7 +2,7 @@
 layout: post
 title: Öppna Standarder i Storbrittanien
 subtitle: Nu har UK Gov släppt den länge efterfrågade rapporten om öppna standarder
-tags: [artikel]
+tags: [artiklar]
 ---
 
 ### Öppna Standarder i Storbrittanien

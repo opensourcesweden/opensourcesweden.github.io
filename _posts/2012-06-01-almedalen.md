@@ -2,7 +2,7 @@
 layout: post
 title: Open Source Sweden på Almedalen 2012
 subtitle: Almedalsveckan 2012
-tags: [artikel]
+tags: [artiklar]
 ---
 
 ### Open Source Sweden på Almedalen 2012

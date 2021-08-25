@@ -2,7 +2,7 @@
 layout: post
 title: Rapport om inlåsningseffekter vid offentlig upphandling
 subtitle: Ny rapport ute
-tags: [artikel]
+tags: [artiklar]
 ---
 
 ### Rapport om inlåsningseffekter vid offentlig upphandling

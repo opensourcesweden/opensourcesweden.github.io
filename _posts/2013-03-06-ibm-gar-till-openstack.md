@@ -2,7 +2,7 @@
 layout: post
 title: IBM går Openstack
 subtitle: IBM meddelar nu att det är öppen källkod som gäller framöver
-tags: [artikel]
+tags: [artiklar]
 ---
 
 ### IBM går Openstack
