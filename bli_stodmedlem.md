@@ -15,7 +15,8 @@ Nedan information behöver vi för att behandla din ansökan:
 
 ```
 Medlemsansökan - stödmedlem
-Undertecknad ansöker härmed att bli stödmedlem i Föreningen Leverantörer av Öppen Programvara i Sverige, Open Source Sweden.
+Undertecknad ansöker härmed att bli stödmedlem i Föreningen Leverantörer av Öppen Programvara i Sverige,
+Open Source Sweden.
 
 Namn	
 Företag	
