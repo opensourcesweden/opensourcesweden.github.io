@@ -24,3 +24,13 @@ En viktig del av föreningens verksamhet är konferenser.
 Alla företag som har professionell verksamhet kan ansöka om medlemskap. Här på webben finns också våra stadgar och information om medlemsavgifter mm.
 
 Välkommen med din ansökan!
+
+## Årsprotokoll
+
+* 2018: https://github.com/opensourcesweden/opensourcesweden.github.io/blob/master/docs/oss-protocol-2018.pdf
+* 2017: https://github.com/opensourcesweden/opensourcesweden.github.io/blob/master/docs/oss-protocol-2017.pdf
+* 2016: https://github.com/opensourcesweden/opensourcesweden.github.io/blob/master/docs/oss-protocol-2016.pdf
+* 2015: https://github.com/opensourcesweden/opensourcesweden.github.io/blob/master/docs/oss-protocol-2015.pdf
+* 2014: https://github.com/opensourcesweden/opensourcesweden.github.io/blob/master/docs/oss-protocol-2014.pdf
+* 2013: https://github.com/opensourcesweden/opensourcesweden.github.io/blob/master/docs/oss-protocol-2013.pdf
+* 2012: https://github.com/opensourcesweden/opensourcesweden.github.io/blob/master/docs/oss-protocol-2012.pdf
