@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Medlemsmöte - Members & Products - Bring together international members of the open source associations
+title: Medlemsmöte - Members and Products - Bring together international members of the open source associations
 subtitle: 7:e oktober 16.00 – 19.00
 tags: [aktivitetet, kalenderium]
 ---
 
-### Medlemsmöte: Members & Products" - Bring together international members of the open source associations
+### Medlemsmöte: Members and Products" - Bring together international members of the open source associations
 7:e oktober 16.00 – 19.00 träffar vi tyska OSB Alliance.
 
 Associations: Open Source Sweden and OSB Alliance
