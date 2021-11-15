@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Titeln här
-subtitle: Sammanfattning här
+title: Varför så slapp inställning för licenshantering av programvaror?
+subtitle: Den som har det yttersta ansvaret i en organisation för licenser är faktiskt VD eller generaldirektör.
 tags: [blogg, jonas feist]
 ---
 
