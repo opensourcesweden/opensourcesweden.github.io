@@ -37,3 +37,6 @@ Scania is a world leading provider of transport solutions with 50,000 employees 
 
 ## [South Pole AB](https://southpole.se/)
 Based in Stockholm, South Pole has over fifteen years’ experience of delivering high performance and enterprise computing solutions to businesses across the Nordics.
+
+## [ITSL Solutions AB](https://itsl.se/)
+ITSL Solutions AB:s historia börjar egentligen redan 2012, när grundarna Patrik och Fredrik Jonasson startade IT-Säkerhetsbolaget med en övertygelse om att individers och organisationers data behöver skyddas på ett bättre sätt. Under åren utvecklade de en djup expertis inom informationssäkerhet och såg ett växande behov av säkra digitala samarbetsplattformar inom offentlig sektor.
