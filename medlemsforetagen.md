@@ -1,6 +1,10 @@
 # Medlemsföretag
 Här finner du alla föreningens företag i alfabetisk ordning.
 
+## [Autotech Development Sweden] (https://www.sparkforce.com)
+Autotech Development Sweden är ett ledande mjukvaruföretag inom digitalt lärande med kunder inom både privat och offentlig sektor. Under varumärket Sparkfore erbjuder vi en digital utbildningsplattform som SaaS-tjänst, baserad på Moodle LMS, världens mest använda lärsystem. Som Certifierad Moodle Partner levererar vi högkvalitativ service i nära samarbete med Moodle-organisationen. Vårt engagemang för öppen källkod ger våra kunder flexibilitet, säkerhet och kostnadseffektivitet. Genom att använda och bidra till öppna lösningar kan vi snabbt anpassa och förbättra vår plattform för att möta specifika behov och krav.r.
+
+
 ## [Digitalist](https://www.digitalist.se)
 Vi är en digital partner med fokus på affärsnytta och kundupplevelse. Med innovation som drivkraft och spetskompetens inom insikter, teknik och design framtidssäkrar vi er verksamhet. Vi utvecklar och förvaltar appar, webbplatser och digitala tjänster.
 
